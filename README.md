@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/dishagoyal1624-hub/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dishagoyal1624-hub/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dishagoyal1624-hub/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Math
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/dishagoyal1624-hub/LeetCode/tree/master/0012-integer-to-roman) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/dishagoyal1624-hub/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
